@@ -73,6 +73,7 @@ endmodule
 ```
 
 **RTL Schematic**
+
 **Full_adder**
 
 <img width="651" height="459" alt="image" src="https://github.com/user-attachments/assets/89a7b8b6-81bc-460b-9408-fd75a3873cca" />
